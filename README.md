@@ -32,38 +32,32 @@ click your farm location on Google Maps to copy the coordinates).
 
 ## Market prices
 
-Market prices come from `market_prices.py`, which reads a CSV instead
-of scraping any site. It checks sources in this order:
-
-1. A remote CSV URL, if you set `MARKET_PRICES_CSV_URL` in
-   `.streamlit/secrets.toml` — e.g. a Google Sheet you maintain,
-   published via File → Share → Publish to web → CSV.
-2. `market_prices.csv` in the project root, which you or a scheduled
-   job can overwrite periodically.
-3. A small built-in sample, only if neither source above is reachable.
+Market prices come from `market_prices.py`, which reads
+`market_prices.csv` in the project root using pandas — that CSV is
+the only data source, no remote URL or built-in fallback.
 
 The CSV is a **tidy time series** — one row per commodity per date —
-so the same file powers both the metric cards and the 5-year trend
-chart on the dashboard:
+so the same file powers both the metric cards and the trend chart on
+the dashboard:
 ```
 date,commodity,price,unit
 2021-01-01,Palay (dry),18.50,kg
 2021-02-01,Palay (dry),18.70,kg
 ```
 `date` accepts `YYYY-MM-DD`, `YYYY-MM`, or `YYYY` — monthly or annual
-data both work. There's no `change` column anymore: the % change
-shown on each metric card is computed automatically from the latest
-two data points for that commodity, whatever the granularity.
+data both work. There's no `change` column: the % change shown on
+each metric card is computed automatically from the latest two data
+points for that commodity, whatever the granularity.
 
-Prices/trends are cached for 1 hour so the dashboard doesn't hammer
-your CSV source on every click; there's a "Refresh prices" button on
-the dashboard to force an immediate reload. The dashboard also has a
+Prices/trends are cached for 1 hour so the dashboard doesn't re-read
+the CSV on every click; there's a "Refresh prices" button on the
+dashboard to force an immediate reload. The dashboard also has a
 commodity dropdown under "Price Trend" that plots the full history
 for whichever commodity you pick, using `st.line_chart`.
 
-The `market_prices.csv` shipped in this repo is **illustrative sample
-data only** — not real PSA figures. Replace it with real PSA OpenSTAT
-data (reshaped into the format above) before using it to make actual
+The `market_prices.csv` shipped in this repo is **synthetic sample
+data only** — not real PSA figures. Replace it with real data
+(reshaped into the format above) before using it to make actual
 farming decisions.
 
 ## Note on storage

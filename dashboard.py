@@ -295,11 +295,8 @@ def show_overview(farmer):
             refresh_market_prices()
             st.rerun()
 
-    prices, price_source, fetched_at = get_market_prices()
-    st.caption(
-        f"Source: {price_source} \u00b7 "
-        f"Last loaded {fetched_at.strftime('%b %d, %I:%M %p')}"
-    )
+    prices, fetched_at = get_market_prices()
+    st.caption(f"Last loaded {fetched_at.strftime('%b %d, %I:%M %p')}")
 
     if not prices:
         st.info("No market price data available yet.")

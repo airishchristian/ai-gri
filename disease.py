@@ -209,4 +209,3 @@ def render_result(result):
                 st.warning(urg)
             else:
                 st.info(urg)
-
