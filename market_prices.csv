@@ -1,0 +1,193 @@
+date,commodity,price,unit
+2024-07,Palay (dry),20.2,kg
+2024-08,Palay (dry),20.14,kg
+2024-09,Palay (dry),20.4,kg
+2024-10,Palay (dry),21.01,kg
+2024-11,Palay (dry),20.92,kg
+2024-12,Palay (dry),20.82,kg
+2025-01,Palay (dry),21.46,kg
+2025-02,Palay (dry),21.76,kg
+2025-03,Palay (dry),21.58,kg
+2025-04,Palay (dry),21.79,kg
+2025-05,Palay (dry),21.61,kg
+2025-06,Palay (dry),21.42,kg
+2025-07,Palay (dry),21.52,kg
+2025-08,Palay (dry),20.75,kg
+2025-09,Palay (dry),20.06,kg
+2025-10,Palay (dry),19.84,kg
+2025-11,Palay (dry),19.43,kg
+2025-12,Palay (dry),19.56,kg
+2026-01,Palay (dry),19.19,kg
+2026-02,Palay (dry),18.63,kg
+2026-03,Palay (dry),19.22,kg
+2026-04,Palay (dry),19.13,kg
+2026-05,Palay (dry),19.15,kg
+2026-06,Palay (dry),18.58,kg
+2024-07,Regular milled rice,44.67,kg
+2024-08,Regular milled rice,44.74,kg
+2024-09,Regular milled rice,44.05,kg
+2024-10,Regular milled rice,44.27,kg
+2024-11,Regular milled rice,43.91,kg
+2024-12,Regular milled rice,43.74,kg
+2025-01,Regular milled rice,43.38,kg
+2025-02,Regular milled rice,44.49,kg
+2025-03,Regular milled rice,44.48,kg
+2025-04,Regular milled rice,43.85,kg
+2025-05,Regular milled rice,44.34,kg
+2025-06,Regular milled rice,43.61,kg
+2025-07,Regular milled rice,43.73,kg
+2025-08,Regular milled rice,42.56,kg
+2025-09,Regular milled rice,41.76,kg
+2025-10,Regular milled rice,41.88,kg
+2025-11,Regular milled rice,42.32,kg
+2025-12,Regular milled rice,42.42,kg
+2026-01,Regular milled rice,42.36,kg
+2026-02,Regular milled rice,42.17,kg
+2026-03,Regular milled rice,41.29,kg
+2026-04,Regular milled rice,40.86,kg
+2026-05,Regular milled rice,40.58,kg
+2026-06,Regular milled rice,41.21,kg
+2024-07,Well milled rice,50.21,kg
+2024-08,Well milled rice,49.15,kg
+2024-09,Well milled rice,49.34,kg
+2024-10,Well milled rice,49.11,kg
+2024-11,Well milled rice,48.71,kg
+2024-12,Well milled rice,49.07,kg
+2025-01,Well milled rice,49.69,kg
+2025-02,Well milled rice,50.25,kg
+2025-03,Well milled rice,49.75,kg
+2025-04,Well milled rice,49.56,kg
+2025-05,Well milled rice,49.76,kg
+2025-06,Well milled rice,50.34,kg
+2025-07,Well milled rice,50.06,kg
+2025-08,Well milled rice,49.95,kg
+2025-09,Well milled rice,49.28,kg
+2025-10,Well milled rice,48.56,kg
+2025-11,Well milled rice,49.05,kg
+2025-12,Well milled rice,49.87,kg
+2026-01,Well milled rice,49.82,kg
+2026-02,Well milled rice,50.42,kg
+2026-03,Well milled rice,50.64,kg
+2026-04,Well milled rice,50.25,kg
+2026-05,Well milled rice,50.47,kg
+2026-06,Well milled rice,51.39,kg
+2024-07,Corn (dry),16.99,kg
+2024-08,Corn (dry),17.46,kg
+2024-09,Corn (dry),16.67,kg
+2024-10,Corn (dry),16.92,kg
+2024-11,Corn (dry),16.95,kg
+2024-12,Corn (dry),16.86,kg
+2025-01,Corn (dry),16.88,kg
+2025-02,Corn (dry),16.29,kg
+2025-03,Corn (dry),16.22,kg
+2025-04,Corn (dry),16.33,kg
+2025-05,Corn (dry),16.77,kg
+2025-06,Corn (dry),16.62,kg
+2025-07,Corn (dry),16.37,kg
+2025-08,Corn (dry),16.22,kg
+2025-09,Corn (dry),16.5,kg
+2025-10,Corn (dry),16.6,kg
+2025-11,Corn (dry),16.44,kg
+2025-12,Corn (dry),16.59,kg
+2026-01,Corn (dry),16.62,kg
+2026-02,Corn (dry),16.91,kg
+2026-03,Corn (dry),16.7,kg
+2026-04,Corn (dry),16.6,kg
+2026-05,Corn (dry),16.48,kg
+2026-06,Corn (dry),16.05,kg
+2024-07,Urea fertilizer,1504.44,bag
+2024-08,Urea fertilizer,1508.36,bag
+2024-09,Urea fertilizer,1508.43,bag
+2024-10,Urea fertilizer,1504.92,bag
+2024-11,Urea fertilizer,1483.68,bag
+2024-12,Urea fertilizer,1477.38,bag
+2025-01,Urea fertilizer,1472.23,bag
+2025-02,Urea fertilizer,1460.2,bag
+2025-03,Urea fertilizer,1457.78,bag
+2025-04,Urea fertilizer,1463.84,bag
+2025-05,Urea fertilizer,1492.13,bag
+2025-06,Urea fertilizer,1494.75,bag
+2025-07,Urea fertilizer,1498.62,bag
+2025-08,Urea fertilizer,1497.5,bag
+2025-09,Urea fertilizer,1468.72,bag
+2025-10,Urea fertilizer,1468.32,bag
+2025-11,Urea fertilizer,1469.22,bag
+2025-12,Urea fertilizer,1506.17,bag
+2026-01,Urea fertilizer,1503.29,bag
+2026-02,Urea fertilizer,1507.81,bag
+2026-03,Urea fertilizer,1507.29,bag
+2026-04,Urea fertilizer,1489.76,bag
+2026-05,Urea fertilizer,1506.9,bag
+2026-06,Urea fertilizer,1518.18,bag
+2024-07,Sugarcane,58.4,kg
+2024-08,Sugarcane,57.94,kg
+2024-09,Sugarcane,58.64,kg
+2024-10,Sugarcane,57.94,kg
+2024-11,Sugarcane,58.23,kg
+2024-12,Sugarcane,59.33,kg
+2025-01,Sugarcane,58.83,kg
+2025-02,Sugarcane,58.55,kg
+2025-03,Sugarcane,58.6,kg
+2025-04,Sugarcane,58.35,kg
+2025-05,Sugarcane,57.57,kg
+2025-06,Sugarcane,57.61,kg
+2025-07,Sugarcane,57.08,kg
+2025-08,Sugarcane,57.31,kg
+2025-09,Sugarcane,56.85,kg
+2025-10,Sugarcane,57.63,kg
+2025-11,Sugarcane,57.24,kg
+2025-12,Sugarcane,57.08,kg
+2026-01,Sugarcane,57.48,kg
+2026-02,Sugarcane,56.87,kg
+2026-03,Sugarcane,56.98,kg
+2026-04,Sugarcane,57.64,kg
+2026-05,Sugarcane,56.83,kg
+2026-06,Sugarcane,56.92,kg
+2024-07,Coconut,20.1,kg
+2024-08,Coconut,20.42,kg
+2024-09,Coconut,19.92,kg
+2024-10,Coconut,19.39,kg
+2024-11,Coconut,19.6,kg
+2024-12,Coconut,19.72,kg
+2025-01,Coconut,19.82,kg
+2025-02,Coconut,19.96,kg
+2025-03,Coconut,19.69,kg
+2025-04,Coconut,19.78,kg
+2025-05,Coconut,19.9,kg
+2025-06,Coconut,19.61,kg
+2025-07,Coconut,20.36,kg
+2025-08,Coconut,20.55,kg
+2025-09,Coconut,20.07,kg
+2025-10,Coconut,20.33,kg
+2025-11,Coconut,19.94,kg
+2025-12,Coconut,20.26,kg
+2026-01,Coconut,20.72,kg
+2026-02,Coconut,20.39,kg
+2026-03,Coconut,20.78,kg
+2026-04,Coconut,20.94,kg
+2026-05,Coconut,21.27,kg
+2026-06,Coconut,22.03,kg
+2024-07,Banana,74.83,kg
+2024-08,Banana,74.3,kg
+2024-09,Banana,73.68,kg
+2024-10,Banana,73.11,kg
+2024-11,Banana,73.05,kg
+2024-12,Banana,73.29,kg
+2025-01,Banana,73.49,kg
+2025-02,Banana,74.06,kg
+2025-03,Banana,74.07,kg
+2025-04,Banana,75.09,kg
+2025-05,Banana,74.91,kg
+2025-06,Banana,76.81,kg
+2025-07,Banana,77.25,kg
+2025-08,Banana,76.65,kg
+2025-09,Banana,75.9,kg
+2025-10,Banana,76.24,kg
+2025-11,Banana,76.08,kg
+2025-12,Banana,76.58,kg
+2026-01,Banana,76.91,kg
+2026-02,Banana,76.86,kg
+2026-03,Banana,76.27,kg
+2026-04,Banana,75.21,kg
+2026-05,Banana,74.89,kg
+2026-06,Banana,75.49,kg
